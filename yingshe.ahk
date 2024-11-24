@@ -2,7 +2,7 @@
 ; 官网地址  https://www.autohotkey.com/
 
 ; 鼠标侧键1功能为打开本地语音识别软件
-; 开源地址 https://github.com/H1DDENADM1N/CapsWriter-Offline
+; 开源地址 https://github.com/HaujetZhao/CapsWriter-Offline
 XButton1::{
     Send("{Volume_Mute}") ; 关闭声音
     Send("{CapsLock Down}") ; 按下 CapsLock 键
